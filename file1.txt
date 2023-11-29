@@ -8,4 +8,6 @@ This is second commit
 
 This is third commit
 
+Ajay Pal
+
 This is updated by Anshu
